@@ -6,23 +6,23 @@
 
 **渐变深色主题 · 标题页** — 全屏沉浸式开场
 
-![标题页](assets/headline.png)
+![标题页](https://raw.githubusercontent.com/balancegsr/office/main/web-slide/assets/headline.png)
 
 **数据图表 · 动态交互** — Chart.js 翻页时自动播放入场动画，支持 hover 查看数据
 
-![动态交互图表](assets/Animation_interaction_chart.png)
+![动态交互图表](https://raw.githubusercontent.com/balancegsr/office/main/web-slide/assets/Animation_interaction_chart.png)
 
 **卡片布局 · 多项并列** — 自动适配列数，玻璃质感面板
 
-![卡片归类](assets/Card_Classification.png)
+![卡片归类](https://raw.githubusercontent.com/balancegsr/office/main/web-slide/assets/Card_Classification.png)
 
 **大数字布局 · 数据冲击** — 核心数据一眼抓住注意力
 
-![重点内容](assets/major_content.png)
+![重点内容](https://raw.githubusercontent.com/balancegsr/office/main/web-slide/assets/major_content.png)
 
 **主题可视化选择器** — 浏览器内预览所有主题，点选即用
 
-![主题选择器](assets/Slide_style_selector.png)
+![主题选择器](https://raw.githubusercontent.com/balancegsr/office/main/web-slide/assets/Slide_style_selector.png)
 
 ## 核心能力
 
